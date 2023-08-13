@@ -1,6 +1,7 @@
 # Mini-Projects
 
 Basic Tkinter Calculator
+
 This is a simple calculator application built using the Tkinter library in Python. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The user interface is created using Tkinter's graphical components, making it easy to understand and use.
 
 Features
@@ -29,7 +30,6 @@ Click on the operation buttons (+, -, *, /) to choose the desired operation.
 Click on the equal (=) button to display the result.
 To clear the input and result, click the Clear button(AC).
 
-Screenshots
 ![The Calculator](calculator/calculator_github-img.png)
 
 Contributing
